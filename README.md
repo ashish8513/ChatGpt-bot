@@ -15,7 +15,7 @@ This project is a simple React-based chatbot that integrates with OpenAI's GPT-3
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-chatbot.git
+   git clone https://github.com/ashish8513/ChatGpt-bot
    cd react-chatbot
 Install dependencies:
 
